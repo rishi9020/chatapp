@@ -1,0 +1,33 @@
+.logo{
+    display: block;
+    margin: auto;
+    width: 50px;
+    height: 50px;
+}
+
+.container{
+    max-width: 955px;
+    background-color: green;
+    margin: auto;
+    height: 60vh;
+}
+
+
+.msg {
+    background-color: rgb(189, 185, 185);
+    width: 300px;
+    padding: 10px;
+    margin: 17px 12px;
+    border-radius: 10px;
+}
+
+
+.right {
+    float: right;
+    clear: both;
+}
+
+.left {
+    float: left;
+    clear: both;
+}
